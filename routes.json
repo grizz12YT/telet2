@@ -1,0 +1,416 @@
+[
+    {
+        "id": 1,
+        "title": "В Игру на выходные",
+        "description": "Новый автомобильный маршрут из Ижевска в Игринский район. История Сибирского тракта, культура удмуртов и арт‑объекты.",
+        "duration": "2 дня",
+        "type": "Автомобильный",
+        "category": "Исторический, культурно-познавательный",
+        "budget": "Средний",
+        "kids": true,
+        "pets": true,
+        "coords": "Ижевск — Игра",
+        "image": "img\/v_igru.png",
+        "gallery": [
+            "img\/v_igru.png",
+            "img\/v_igru2.png",
+            "img\/v_igru3.png"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Ожерелье Камы (межрегиональный)",
+        "description": "Автомаршрут по Удмуртии и Башкортостану вдоль Камы. Ключевые города и культурные центры.",
+        "duration": "3-4 дня",
+        "type": "Автомобильный",
+        "category": "Исторический, культурно-познавательный",
+        "budget": "Средний",
+        "kids": true,
+        "pets": true,
+        "coords": "Воткинск — Сарапул",
+        "image": "img\/ozirelye_kami.png",
+        "gallery": [
+            "img\/ozirelye_kami.png",
+            "img\/ozirelye_kami2.png",
+            "img\/ozirelye_kami3.png"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Влюбиться в Удмуртию!",
+        "description": "Гастрономический тур по городам республики. Мастер‑классы по пельменям, перепечам и табаням.",
+        "duration": "3 дня",
+        "type": "Автобусный",
+        "category": "Гастрономический, культурно-познавательный",
+        "budget": "Средний",
+        "kids": true,
+        "pets": false,
+        "coords": "Ижевск — Сарапул — Воткинск",
+        "image": "img\/love_v_udmurtia.png",
+        "gallery": [
+            "img\/love_v_udmurtia.png",
+            "img\/love_v_udmurtia2.png",
+            "img\/love_v_udmurtia3.png"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Древнее городище «Иднакар»",
+        "description": "Удмуртская Троя IX–XIII веков на горе Солдырь. Панорамный вид и музей древнего быта.",
+        "duration": "1 день",
+        "type": "Пеший, автомобильный",
+        "category": "Исторический, археологический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Глазов",
+        "image": "img\/idnakar.png",
+        "gallery": [
+            "img\/idnakar.png",
+            "img\/idnakar2.png",
+            "img\/idnakar3.png"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Музей‑усадьба «Лудорвай»",
+        "description": "Музей удмуртского быта под открытым небом в 10 км от Ижевска. Традиционная деревенская жизнь.",
+        "duration": "1 день",
+        "type": "Автомобильный",
+        "category": "Этнографический, культурно‑познавательный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Лудорвай",
+        "image": "img\/ludorvai.png",
+        "gallery": [
+            "img\/ludorvai.png",
+            "img\/ludorvai2.png",
+            "img\/ludorvai3.png"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Экотропа «Наедине с лесом»",
+        "description": "Инклюзивный маршрут в Нечкинском парке с персонажами удмуртской мифологии. Доступен для ОВЗ.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Природный, экологический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Нечкинский парк",
+        "image": "img\/eko-tropa.png",
+        "gallery": [
+            "img\/eko-tropa.png",
+            "img\/eko-tropa2.png",
+            "img\/eko-tropa3.png"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Экотропа «Книга природы»",
+        "description": "5 км по Кокманскому заказнику. Редкие растения и многовековые лиственницы.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Природный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": false,
+        "coords": "Кокман",
+        "image": "img\/eko-tropa_kniga.png",
+        "gallery": [
+            "img\/eko-tropa_kniga.png",
+            "img\/eko-tropa_kniga2.png",
+            "img\/eko-tropa_kniga3.png"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Купеческий Сарапул",
+        "description": "Город на Каме с архитектурой модерн XIX века. Набережная и исторический музей.",
+        "duration": "1 день",
+        "type": "Пеший, автобусный",
+        "category": "Исторический, архитектурный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Сарапул",
+        "image": "img\/sarapul_kup.png",
+        "gallery": [
+            "img\/sarapul_kup.png",
+            "img\/sarapul_kup2.png",
+            "img\/sarapul_kup3.png"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Музей‑усадьба П.И. Чайковского",
+        "description": "Место рождения композитора в Воткинске. Дворянский быт XIX века и старинный сад.",
+        "duration": "1 день",
+        "type": "Пеший, автобусный",
+        "category": "Исторический, культурный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Воткинск",
+        "image": "img\/Votkinsk.png",
+        "gallery": [
+            "img\/Votkinsk.png",
+            "img\/Votkinsk2.png",
+            "img\/Votkinsk3.png"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Северная столица — Глазов",
+        "description": "Пешеходный маршрут по северному городу. Спасо‑Преображенский собор и арт‑объект.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Исторический, архитектурный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Глазов",
+        "image": "img\/glazov.png",
+        "gallery": [
+            "img\/glazov.png",
+            "img\/glazov2.png",
+            "img\/glazov3.png"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Помощь в деревне Сеп",
+        "description": "Волонтёрский маршрут. Народный музей и необычная автобусная остановка.",
+        "duration": "2-3 дня",
+        "type": "Автомобильный",
+        "category": "Волонтёрский",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Сеп",
+        "image": "img\/sep.png",
+        "gallery": [
+            "img\/sep.png",
+            "img\/sep2.png",
+            "img\/sep3.png"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Посади лес в Нечкинском парке",
+        "description": "Экологическая акция по восстановлению лесов. Высадка саженцев сосны.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Волонтёрский, экологический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": false,
+        "coords": "Нечкинский парк",
+        "image": "img\/posadi_les.png",
+        "gallery": [
+            "img\/posadi_les.png",
+            "img\/posadi_les2.png",
+            "img\/posadi_les3.png"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Бурановские бабушки",
+        "description": "Родовая усадьба группы «Бурановские бабушки». Мастер‑класс по удмуртским песням и лепешкам тормыш‑шань.",
+        "duration": "1 день",
+        "type": "Автомобильный",
+        "category": "Культурно‑познавательный, музыкальный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Бураново",
+        "image": "img\/buranovskie_babushki.png",
+        "gallery": [
+            "img\/buranovskie_babushki.png",
+            "img\/buranovskie_babushki2.png",
+            "img\/buranovskie_babushki3.png"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Абатские пещеры и каньоны",
+        "description": "Сплав по реке с посещением древних пещер старообрядцев и живописных каньонов.",
+        "duration": "1 день",
+        "type": "Водный, пеший",
+        "category": "Природный, исторический",
+        "budget": "Средний",
+        "kids": true,
+        "pets": false,
+        "coords": "Абатские пещеры",
+        "image": "img\/abatskie_pesheri.png",
+        "gallery": [
+            "img\/abatskie_pesheri.png",
+            "img\/abatskie_pesheri2.png",
+            "img\/abatskie_pesheri3.png"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Зуевы ключи",
+        "description": "Святые родники шаманов в Малопургинском районе. Целебная вода, обряды и пикник у реки Чепца.",
+        "duration": "1 день",
+        "type": "Автомобильный",
+        "category": "Духовный, этнографический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Малопургинский р‑н",
+        "image": "img\/zuevi_kluchi.png",
+        "gallery": [
+            "img\/zuevi_kluchi.png",
+            "img\/zuevi_kluchi2.png",
+            "img\/zuevi_kluchi3.png"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Этнокомплекс Бобровая долина",
+        "description": "Этно‑деревня в Ижевске с удмуртскими избами, мини‑зоопарком и мастер‑классами для семьи.",
+        "duration": "Полдня",
+        "type": "Пеший",
+        "category": "Этнографический, семейный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Ижевск",
+        "image": "img\/bobrovaya_dolina.png",
+        "gallery": [
+            "img\/bobrovaya_dolina.png",
+            "img\/bobrovaya_dolina2.png",
+            "img\/bobrovaya_dolina3.png"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Волонтёры лесопарка «Дубрава»",
+        "description": "Еженедельные субботники по уборке мусора и уходу за зелёными зонами парка. Волонтёрские школы и пикники для семей.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Волонтёрский, экологический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": false,
+        "coords": "Ижевск, парк «Дубрава»",
+        "image": "img\/dubrava.png",
+        "gallery": [
+            "img\/dubrava.png",
+            "img\/dubrava2.png",
+            "img\/dubrava3.png"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Волонтёры Памяти в Воткинске",
+        "description": "Помощь в благоустройстве мемориальных мест, уход за памятниками и участие в акциях памяти у Вечного огня.",
+        "duration": "1 день",
+        "type": "Пеший, автобусный",
+        "category": "Волонтёрский, исторический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": false,
+        "coords": "Воткинск, мемориалы",
+        "image": "img\/volonter_pamyati.png",
+        "gallery": [
+            "img\/volonter_pamyati.png",
+            "img\/volonter_pamyati2.png",
+            "img\/volonter_pamyati3.png"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Экологические дружины Нечкинского парка",
+        "description": "Волонтёрская программа по наблюдению за птицами и природой парка, сопровождение экскурсий и помощь в акциях по охране леса.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Волонтёрский, экологический",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": false,
+        "coords": "Нечкинский парк",
+        "image": "img\/druzina.png",
+        "gallery": [
+            "img\/druzina.png",
+            "img\/druzina2.png",
+            "img\/druzina3.png"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Арт‑кластер «Камская набережная»",
+        "description": "Пешеходный маршрут по арт‑объектам вдоль Камы в Сарапуле. Муралы, световые инсталляции и открытые площадки для фестивалей.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Культурный, арт‑туризм",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Сарапул, набережная Камы",
+        "image": "img\/art-klaster.png",
+        "gallery": [
+            "img\/art-klaster.png",
+            "img\/art-klaster2.png",
+            "img\/art-klaster3.png"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Живописный маршрут по Каме от Воткинского моря",
+        "description": "Автомобильный тур вдоль Воткинского водохранилища с панорамными видами, пляжами и рыболовными точками.",
+        "duration": "1 день",
+        "type": "Автомобильный",
+        "category": "Природный, рекреационный",
+        "budget": "Эконом",
+        "kids": true,
+        "pets": true,
+        "coords": "Воткинск — Кама",
+        "image": "img\/po_kame_ot_votkinscogo_morya.png",
+        "gallery": [
+            "img\/po_kame_ot_votkinscogo_morya.png",
+            "img\/po_kame_ot_votkinscogo_morya2.png",
+            "img\/po_kame_ot_votkinscogo_morya3.png"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Этнодеревня «Клюшар»",
+        "description": "Этнокомплекс в старорусском стиле с мастер‑классами по гончарству, кузнечному делу и ткачеству. Классический «русский» сюжет для семейного отдыха.",
+        "duration": "1 день",
+        "type": "Автомобильный",
+        "category": "Этнографический, культурный",
+        "budget": "Средний",
+        "kids": true,
+        "pets": true,
+        "coords": "Камбарский район",
+        "image": "img\/klushar.png",
+        "gallery": [
+            "img\/klushar.png",
+            "img\/klushar2.png",
+            "img\/klushar3.png"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Ночная прогулка по крышам Ижевска",
+        "description": "Городской ночной маршрут по мало‑известным точкам Ижевска с гидом. Смотровые площадки, истории о городе и архитектура советского модерна.",
+        "duration": "1 день",
+        "type": "Пеший",
+        "category": "Культурный, городской",
+        "budget": "Эконом",
+        "kids": false,
+        "pets": false,
+        "coords": "Ижевск, центр",
+        "image": "img\/krishi.png",
+        "gallery": [
+            "img\/krishi.png",
+            "img\/krishi2.png",
+            "img\/krishi3.png"
+        ]
+    }
+]
